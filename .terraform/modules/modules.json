@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"policy","Source":"./demo_policy_module","Dir":"demo_policy_module"},{"Key":"pre_publish","Source":"./pre_publish_module","Dir":"pre_publish_module"},{"Key":"publish","Source":"./publish_module","Dir":"publish_module"}]}
